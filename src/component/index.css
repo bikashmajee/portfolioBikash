@@ -1,6 +1,6 @@
 .row{
     background-color: #333 !important;
-    height: 500px;
+    /* height: 500px; */
 }
 .left{
     /* background-color: aqua !important; */
@@ -18,7 +18,7 @@
     position: relative;
 
 }
-.right h2,p{
+.heading h2,p{
     color: rgb(196, 120, 120);
     text-align: center;
 }
@@ -31,7 +31,7 @@
     top: 19%;
     /* transform: translateX(66%); */
 }
-.right .heading h2 samp{
+.heading h2 samp{
     color: aqua;
 }
 .leftbody{
@@ -86,6 +86,9 @@
     }
     .right{
         width: 100%;
+    }
+    img{
+        height: 50%;
     }
 }
 
