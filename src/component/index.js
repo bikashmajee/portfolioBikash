@@ -25,15 +25,15 @@ function index() {
       </div>
     </div> */}
     <div class="container-fluid text-center">
-      <div class="row border">
-        <div class="col border">
+      <div class="row ">
+        <div class="col  p-3 ">
           <div className='heading'>
           <h2><samp>I'm</samp> Bikash</h2>
           <p>Software Enginner..</p>
         </div>
         </div>
-        <div class="col border">
-          <img src={Logo} class="rounded-circle" alt="..."/>
+        <div class="col  p-3 ">
+          <img src={Logo} class="rounded-circle " alt="..."/>
 
         </div>
       </div>

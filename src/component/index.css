@@ -2,22 +2,8 @@
     background-color: #333 !important;
     /* height: 500px; */
 }
-.left{
-    /* background-color: aqua !important; */
-    width: 50%;
-    height: 50%;
-    position: relative;
 
 
-}
-.right{
-    /* background-color: blueviolet !important; */
-    width: 50%;
-    height: 50%;
-    /* text-align: center; */
-    position: relative;
-
-}
 .heading h2,p{
     color: rgb(196, 120, 120);
     text-align: center;
@@ -34,45 +20,16 @@
 .heading h2 samp{
     color: aqua;
 }
-.leftbody{
-    /* background-color: brown; */
-       /* background-color: brown; */
-    background-color: aqua;
-    /* margin: auto; */
-    width: 334px;
-    height: 334px;
-    border: 3px solid rgb(196, 120, 120);
-    /* padding: 10px; */
-    /* margin-top: 10%; */
-    border-radius: 200px;
-    overflow: hidden;
-    margin: 0;
-    position: absolute;
-    top: 20%;
-    /* -ms-transform: translateY(-50%); */
-    /* transform: translateY(-50%); */
-    /* transform: translateX(57%); */
-}
-.leftbody img{
-    width: 100%;
-}
-*{
-    box-sizing: border-box;
-}
+
+
   
   /* Create two equal columns that floats next to each other */
-.column {
-    float: left;
-    width: 50%;
-    padding: 10px;
-    height: 300px; /* Should be removed. Only for demonstration */
-}
+
   
   /* Clear floats after the columns */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
+
+img{
+    height: 400px;
 }
 
 
