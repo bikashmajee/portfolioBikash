@@ -1,5 +1,5 @@
 .row{
-    background-color: #333 !important;
+    /* background-color: #333 !important; */
     /* height: 500px; */
 }
 
@@ -19,6 +19,9 @@
 }
 .heading h2 samp{
     color: aqua;
+}
+.bg{
+    background-image: url("../images/bgIntro.jpg");
 }
 
 
@@ -45,7 +48,7 @@ img{
         width: 100%;
     }
     img{
-        height: 50%;
+        height: 65%;
     }
 }
 

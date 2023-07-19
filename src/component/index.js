@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from '../common/navbar'
 import Footer from '../common/footer'
 import './index.css'
-import Logo from '../images/bpreview.jpg'
+import Logo from '../images/bpreview.png'
 
 
 
@@ -24,7 +24,8 @@ function index() {
         </div> 
       </div>
     </div> */}
-    <div class="container-fluid text-center">
+    <div className='bg'>
+    <div class="container-fluid text-center ">
       <div class="row p-5 ">
         <div class="col d-flex align-items-center justify-content-center">
           <div className='heading'>
@@ -40,7 +41,7 @@ function index() {
     </div>
 
 
-    <div class="container-fluid text-center">
+    <div class="container-fluid text-center ">
       <div className='row border-top '>
         <p className='p-4 fs-3'>Results-driven Software Engineer with expertise in React.js, JavaScript, and Spring Boot. Sharp analytical acumen, adept at conquering intricate challenges. Seeking a pivotal role to drive transformative growth and deliver impeccable software solutions.</p>
         
@@ -57,6 +58,7 @@ function index() {
 
         </div>
       </div> */}
+    </div>
     </div>
     {/* <Footer/> */}
 
