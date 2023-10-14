@@ -17,7 +17,7 @@
     top: 19%;
     /* transform: translateX(66%); */
 }
-.heading h2 samp{
+.firstLetter{
     color: aqua;
 }
 .height{
@@ -25,6 +25,12 @@
 }
 .light{
     background-color: antiquewhite;
+}
+.lightPink{
+    background-color: rgb(243, 208, 162);
+}
+.transform{
+    transform: rotate(353deg);
 }
 .white{
     background-color: #fff;
