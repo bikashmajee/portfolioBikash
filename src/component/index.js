@@ -8,6 +8,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import  Facebook  from '../images/facebook.svg'
 import  Instagram  from '../images/instagram.svg'
 import  Linkedin  from '../images/linkedin.svg'
+import  Github  from '../images/github.svg'
 // import { icon } from '@fortawesome/fontawesome-svg-core/import.macro'
 
 
@@ -57,9 +58,9 @@ function index() {
       <div class="container-fluid">
         <div class="row align-items-start mt-3">
           <div class="col height d-flex align-items-center">
-          <div className='border rounded-circle border-info h-75 w-100 d-flex align-items-center light shadow-lg'>
+          <div className='border rounded-circle  h-75 w-100 d-flex align-items-center light shadow-lg'>
 
-          <div className='border rounded-circle border-info h-75 w-75 white  d-flex align-items-center shadow-lg'>
+          <div className='border rounded-circle  h-75 w-75 white  d-flex align-items-center shadow-lg'>
               <div className='container text-center'>
                 <div className='heading '>
                   <h2><samp>I'm</samp> Bikash</h2>
@@ -68,7 +69,7 @@ function index() {
                 <div class="container px-4">
               <div class="row gx-5 d-flex justify-content-around">
                 <div class="col-2">
-                <div class=""><img src={Linkedin} width="25" height="30"/></div>
+                <div class=""><img src={Github} width="25" height="30"/></div>
                 </div>
                 <div class="col-2">    
                   <div class="  "><img src={Linkedin} width="25" height="30"/></div>
