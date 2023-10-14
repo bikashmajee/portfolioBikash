@@ -20,9 +20,24 @@
 .heading h2 samp{
     color: aqua;
 }
-.bg{
-    background-image: url("../images/bgIntro.jpg");
+.height{
+   height: 80vh;
 }
+.light{
+    background-color: antiquewhite;
+}
+.white{
+    background-color: #fff;
+}
+.fit{
+    height: -webkit-fill-available;
+}
+/* .row{
+    justify-content: space-around;
+} */
+/* .bg{
+    background-image: url("../images/bgIntro.jpg");
+} */
 
 
   
@@ -31,9 +46,9 @@
   
   /* Clear floats after the columns */
 
-img{
+/* img{
     height: 400px;
-}
+} */
 
 
 @media screen and (max-width: 600px) {
