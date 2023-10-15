@@ -98,14 +98,14 @@ function index() {
 
         </div>
         {/* Exprience */}
-        <div class="row mt-3 p-3">
+        <div class="row mt-3 p-3 ">
           {/* 1nd col */}
           <div class="col ">
-            <div className='height '>
+            <div className='h-auto '>
               <div className="h1"> <samp className='firstLetter'>E</samp>xprience</div>
               <div className='row p-4'>
-                <div className='col col-2 '>
-                  <img src={iexceesd}  height="40"/>
+                <div className='col-auto '>
+                  <img src={iexceesd}  height='40'/>
                 </div>
                 <div className='col'>
                   <h5>Software Engineer</h5>
@@ -123,7 +123,7 @@ function index() {
                 </div>
               </div>    
               <div className='row p-4'>
-                <div className='col col-2 '>
+                <div className='col-auto '>
                   <img src={vmokshaLogo}  height="40" width='60'/>
                 </div>
                 <div className='col'>
@@ -145,12 +145,12 @@ function index() {
           {/* <div class="col border"> */}
           {/* 2nd col  skill*/}
             <div class="col ">
-            <div className='height '>
+            <div className='h-auto '>
               <div className="h1"> <samp className='firstLetter'>S</samp>kills</div>
               <div className='container h-25 w-50 lightPink '>
                 <div className='container h-100 w-100 light  transform p-2'>
                   <h5 className=''> <samp className='firstLetter'>J</samp>avaScript </h5>
-                  <div className=''> JavaScript is a versatile and widely-used programming language that allows you to add interactivity and dynamic behavior to websites.  </div>
+                  <div className='font-weight-light'> JavaScript is a versatile and widely-used programming language that allows you to add interactivity and dynamic behavior to websites.  </div>
                 </div>
               </div>
               <br></br>

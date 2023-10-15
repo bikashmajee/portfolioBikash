@@ -68,9 +68,9 @@
     .right{
         width: 100%;
     }
-    img{
+    /* img{
         height: 65%;
-    }
+    } */
 }
 
 @media screen and (max-width: 600px) {
