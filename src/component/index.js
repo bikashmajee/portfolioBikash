@@ -147,14 +147,14 @@ function index() {
             <div class="col ">
             <div className='h-auto '>
               <div className="h1"> <samp className='firstLetter'>S</samp>kills</div>
-              <div className='container h-25 w-50 lightPink '>
+              <div className='container h-25 w-auto lightPink '>
                 <div className='container h-100 w-100 light  transform p-2'>
                   <h5 className=''> <samp className='firstLetter'>J</samp>avaScript </h5>
                   <div className='font-weight-light'> JavaScript is a versatile and widely-used programming language that allows you to add interactivity and dynamic behavior to websites.  </div>
                 </div>
               </div>
               <br></br>
-              <div className='container h-25 w-50 lightPink p-0'>
+              <div className='container h-25 w-auto lightPink p-0'>
               <div className='container h-100 w-100 light  transform p-2'>
                   <h5 className=''> <samp className='firstLetter'>R</samp>eactJS </h5>
                   <div className=''> ReactJS is a popular JavaScript library for building user interfaces, particularly for single-page applications where user experience is crucial. </div>
@@ -162,7 +162,7 @@ function index() {
               </div>
 
               <br></br>
-              <div className='container h-25 w-50 lightPink p-0'>
+              <div className='container h-25 w-auto lightPink p-0'>
               <div className='container h-100 w-100 light  transform p-2'>
                   <h5 className=''> <samp className='firstLetter'>C</samp>ss  </h5>
                   <div className=''> CSS is a stylesheet language used for describing the presentation of a web page written in HTML or XML. It controls the layout.  </div>
@@ -170,7 +170,8 @@ function index() {
               </div>
 
               <br></br>
-              <div className='container h-25 w-50 lightPink p-0'>
+              <br></br>
+              <div className='container h-25 w-auto lightPink p-0'>
               <div className='container h-100 w-100 light  transform p-2'>
                   <h5 className=''> <samp className='firstLetter'>J</samp>ava </h5>
                   <div className=''> Java is a versatile and widely-used object-oriented programming language. It's known for its platform independence. </div>
