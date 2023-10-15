@@ -147,7 +147,7 @@ function index() {
             <div class="col ">
             <div className='h-auto '>
               <div className="h1"> <samp className='firstLetter'>S</samp>kills</div>
-              <div className='container h-25 w-auto lightPink '>
+              <div className='container h-25 w-auto lightPink  p-0 '>
                 <div className='container h-100 w-100 light  transform p-2'>
                   <h5 className=''> <samp className='firstLetter'>J</samp>avaScript </h5>
                   <div className='font-weight-light'> JavaScript is a versatile and widely-used programming language that allows you to add interactivity and dynamic behavior to websites.  </div>
